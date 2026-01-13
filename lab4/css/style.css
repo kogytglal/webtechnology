@@ -1,5 +1,5 @@
 .hero-image {
-  background: url('Styles/tvoe_foto.jpg') no-repeat center center;
+  background: url('/lab4/Styles/lptoplight.jpg') no-repeat center center;
   background-size: cover;
   height: 400px;
   display: flex;
