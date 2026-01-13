@@ -1,6 +1,7 @@
 .hero-image {
   background: url('/lab4/Styles/lptoplight.jpg') no-repeat center center;
-  background-size: cover;
+background-size: cover;
+
   height: 400px;
   display: flex;
   align-items: flex-end;
